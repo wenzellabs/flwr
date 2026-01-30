@@ -49,7 +49,7 @@ there's two basic methods of soldering that you can use to master the flwr:
 - method A, hand soldering:
     - soldering iron
     - flux
-    - solder wire
+    - thin solder wire (max 0.5mm thickness)
     - soldering iron with a thin tip
 
 - method B, paste soldering:
@@ -187,6 +187,12 @@ bottom side battery holder. mind the orientation as shown.
 <img src="solder/flwr_solder_07.png" alt="SMD component 07 to solder">
 
 <hr>
+
+a last step before inserting the battery is to push down the top center battery tap **once** as the holder is a little on the loose side.
+
+<img src="pic/flwr_bend_bat_holder_1.jpg" alt="bend the battery holder middle tap down once">
+<img src="pic/flwr_bend_bat_holder_2.jpg" alt="bend the battery holder middle tap down once">
+<img src="pic/flwr_bend_bat_holder_3.jpg" alt="bend the battery holder middle tap down once">
 
 ## schematics
 
