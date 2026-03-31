@@ -95,34 +95,6 @@ now place all the components using tweezers.
 
 follow the sequence of components as outlined in the **assembly** section.
 
-## LED polarity
-
-the LED must be placed in the correct orientation.
-
-as shown in the pictures the anode is left, and the cathode is right.
-
-<hr>
-
-<img src="pic/LED_0.jpg" alt="LED position on PCB">
-
-<hr>
-
-<img src="pic/LED_1.jpg" alt="LED placed on PCB">
-
-<hr>
-
-<img src="pic/LED_2.jpg" alt="LED top view">
-
-<hr>
-
-<img src="pic/LED_3.jpg" alt="LED bottom view">
-
-<hr>
-
-this is how the mirror helps you see the bottom marking of the LED while its orientation is correct for picking it up with a tweezer.
-
-<img src="pic/LED_4.jpg" alt="LED on mirror">
-
 ## assembly
 
 first do the top side assembly, then bottom.
@@ -165,6 +137,32 @@ next, the resistor, 470Ohm, white tape, "471".
 
 last top side part is the LED amber, black tape, white component.
 use the mirror to determine the polarity easily. seat the bottom marking at the open end of the U-shaped marking around the LED.
+
+the LED must be placed in the correct orientation.
+
+as shown in the pictures the anode is left, and the cathode is right.
+
+<hr>
+
+<img src="pic/LED_0.jpg" alt="LED position on PCB">
+
+<hr>
+
+<img src="pic/LED_1.jpg" alt="LED placed on PCB">
+
+<hr>
+
+<img src="pic/LED_2.jpg" alt="LED top view">
+
+<hr>
+
+<img src="pic/LED_3.jpg" alt="LED bottom view">
+
+<hr>
+
+this is how the mirror helps you see the bottom marking of the LED while its orientation is correct for picking it up with a tweezer.
+
+<img src="pic/LED_4.jpg" alt="LED on mirror">
 
 <img src="solder/SMD_LED.jpg" alt="SMD_LED">
 
